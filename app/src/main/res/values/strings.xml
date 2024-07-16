@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExerciseModule9</string>
+    <string name="txt_name">Juliana Souza</string>
+    <string name="txt_email">jusouza@gmail.com</string>
+    <string name="txt_phone">(11)91234-5678</string>
+    <string name="txt_address">Rua Sao paulo, 123 - Bairro: Rio de Janeiro</string>
+</resources>
