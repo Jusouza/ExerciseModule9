@@ -32,7 +32,7 @@
         app:layout_constraintEnd_toStartOf="@+id/guideline3"
         app:layout_constraintStart_toStartOf="@+id/guideline"
         app:layout_constraintTop_toTopOf="@+id/guideline2"
-        tools:srcCompat="@android:drawable/btn_star_big_on" />
+        android:src="@drawable/ic_star"/>
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline2"
